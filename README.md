@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/7773aakash/LeetCode/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/7773aakash/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/7773aakash/LeetCode/tree/master/0324-wiggle-sort-ii) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/7773aakash/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
