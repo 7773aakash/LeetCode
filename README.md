@@ -50,4 +50,20 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/7773aakash/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/7773aakash/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/7773aakash/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/7773aakash/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/7773aakash/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
