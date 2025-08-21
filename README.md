@@ -66,4 +66,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/7773aakash/LeetCode/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/7773aakash/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/7773aakash/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
