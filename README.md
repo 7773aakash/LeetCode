@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/7773aakash/LeetCode/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/7773aakash/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0496-next-greater-element-i](https://github.com/7773aakash/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/7773aakash/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/7773aakash/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/7773aakash/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/7773aakash/LeetCode/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/7773aakash/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
